@@ -37,3 +37,6 @@ Overall, this app can be beneficial in various contexts, from machine learning a
 
 
 WARNING! Not responsible in any way shape or form for usage. Please follow all applicable rules and laws. This is not a final product, this is a thought experiment I chose to make real for the sake of learning. Binary Data is pretty massive, high resolution images even more so. There really isn't a practical reason for the existence of this script lol. 
+
+
+![imagetobinary](https://user-images.githubusercontent.com/111990299/228407446-8851ec48-349b-47bd-9328-3a1d1464b5a3.png)
